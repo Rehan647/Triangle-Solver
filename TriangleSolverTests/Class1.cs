@@ -19,7 +19,46 @@ namespace TriangleSolverTests
             Assert.AreEqual(expected, result);
         }
 
-  
+        [Test]
+        public void Test_IsoscelesTriangle_Case1()
+        {
+            // Arrange
+            string expected = "Isosceles triangle";
+
+            // Act
+            string result = Triangle.AnalyzeTriangle(5, 5, 3);
+
+            // Assert
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void Test_IsoscelesTriangle_Case2()
+        {
+            // Arrange
+            string expected = "Isosceles triangle";
+
+            // Act
+            string result = Triangle.AnalyzeTriangle(6, 4, 6);
+
+            // Assert
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void Test_IsoscelesTriangle_Case3()
+        {
+            // Arrange
+            string expected = "Isosceles triangle";
+
+            // Act
+            string result = Triangle.AnalyzeTriangle(2, 7, 7);
+
+            // Assert
+            Assert.AreEqual(expected, result);
+        }
+
+
 
 
 
