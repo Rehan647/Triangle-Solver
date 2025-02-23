@@ -1,0 +1,16 @@
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\bin\Debug\nunit.engine.dll
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\bin\Debug\nunit.engine.api.dll
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\bin\Debug\TriangleSolverTests.dll
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\bin\Debug\TriangleSolverTests.pdb
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\bin\Debug\nunit.framework.dll
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\bin\Debug\TriangleSolver.dll
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\bin\Debug\TriangleSolver.pdb
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\bin\Debug\nunit.framework.xml
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\obj\Debug\TriangleSolverTests.csproj.AssemblyReference.cache
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\obj\Debug\TriangleSolverTests.csproj.CoreCompileInputs.cache
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\obj\Debug\TriangleSolverTests.csproj.CopyComplete
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\obj\Debug\TriangleSolverTests.dll
+C:\Users\Rehan5068\Downloads\TriangleSolver (1)\TriangleSolver\TriangleSolverTests\obj\Debug\TriangleSolverTests.pdb
